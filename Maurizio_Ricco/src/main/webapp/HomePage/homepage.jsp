@@ -77,6 +77,68 @@
 						</div>
 					</div>
 				</div>
+				<div id=subsection>
+					<div id=image_way>
+						<img src=../IMAGE/freccia_complete.png id=arrow_image>
+					</div>
+					<div id=information_way>
+						<p class=title_words>IIS PARMENIDE, DIPLOMA TECNICO INFORMATICO</p>
+						<p class=date>2013-2018</p>
+						<p>Durante il mio percorso ho acquisito determinate skills: </p>
+						<p class=information><img class=icon_image src="../IMAGE/mark_confirmed.png">
+							Ottime abilità di Applicazione
+						</p>
+						<p class=information><img class=icon_image src="../IMAGE/mark_confirmed.png">
+							Ottime capacità di Problem Solving
+						</p>
+						<p class=information><img class=icon_image src="../IMAGE/mark_confirmed.png">
+							Discrete capacità di comunicazione in Team 
+						</p>
+						
+						<p class=title_words>UNIVERSITÀ DEGLI STUDI DI SALERNO, CORSO DI LAUREA TRIENNALE IN INFORMATICA</p>
+						<p class=date>2019-IN CORSO...</p>
+						<p>Durante il mio percorso ho acquisito determinate skills: </p>
+						<p class=information><img class=icon_image src="../IMAGE/mark_confirmed.png">
+							Buone conoscenze dei Linguaggi Procedurali
+						</p>
+						<p class=information><img class=icon_image src="../IMAGE/mark_confirmed.png">
+							Buone conoscenze dei Linguaggi Orientati ad Oggetti
+						</p>
+						<p class=information><img class=icon_image src="../IMAGE/mark_confirmed.png">
+							Buone conoscenze di gestione dei Database
+						</p>
+						<p class=information><img class=icon_image src="../IMAGE/mark_confirmed.png">
+							Buone conoscenze per lo sviluppo di App Mobile
+						</p>
+						<p class=information><img class=icon_image src="../IMAGE/mark_confirmed.png">
+							Buone conoscenze per lo sviluppo di Applicazioni Web
+						</p>
+						<p class=information><img class=icon_image src="../IMAGE/mark_confirmed.png">
+							Ottime capacità di comunicazione in Team 
+						</p>
+					</div>
+				</div>
+			</div>
+			<div id=section_2>
+				<div id=content_section_2>
+					<h2>SKILLS</h2>
+					<p class="description">
+						Di seguito sono presenti alcune skills apprese durante il mio percorso di studi
+					</p>
+					<div class="progress_bar">
+						<div class="block_border"></div>
+						<div class="block_border"></div>
+						<div class="block_border"></div>
+						<div class="block_border"></div>
+						<div class="block_border"></div>
+						<div class="block_border"></div>
+						<div class="block_border"></div>
+						<div class="block_border"></div>
+						<div class="block_meter"></div>
+						<div class="block_meter"></div>
+					</div>
+				</div>
+			
 			</div>
 		</div>
 	</body>
