@@ -165,11 +165,11 @@ h1{
 }
 
 .progress_bar{
-	width: 60vw;
-	height: 12vw;
+	width: auto;
+	height: auto;
 	display: grid;
-	grid-template-columns: repeat(3,1vw) repeat(10, 2vw 1vw) repeat(2, 1vw);
-	grid-template-rows: repeat(6, 1vw);
+	grid-template-columns: repeat(3,0.5vw) repeat(10, 1vw 0.5vw) repeat(2, 0.5vw);
+	grid-template-rows: repeat(6, 0.5vw);
 }
 
 .block_border{
@@ -232,3 +232,86 @@ h1{
 	grid-row:3/5;
 	grid-column: 6;
 }
+
+.block_meter:nth-of-type(11){
+	grid-row:3/5;
+	grid-column: 8;
+}
+
+.block_meter:nth-of-type(12){
+	grid-row:3/5;
+	grid-column: 10;
+}
+
+.block_meter:nth-of-type(13){
+	grid-row:3/5;
+	grid-column: 12;
+}
+
+.block_meter:nth-of-type(14){
+	grid-row:3/5;
+	grid-column: 14;
+}
+
+.block_meter:nth-of-type(15){
+	grid-row:3/5;
+	grid-column: 16;
+}
+
+.block_meter:nth-of-type(16){
+	grid-row:3/5;
+	grid-column: 18;
+}
+
+.block_meter:nth-of-type(17){
+	grid-row:3/5;
+	grid-column: 20;
+}
+
+.block_meter:nth-of-type(18){
+	grid-row:3/5;
+	grid-column: 22;
+}
+
+#parts{
+	padding: 3% 15%;
+}
+
+#part_1{
+	width:auto;
+	height: auto;
+	float:left;
+	text-align:center;
+	
+}
+
+.title{
+	font-size: 25px;
+}
+
+.generic_bar{
+	margin-top: 10%;
+}
+
+#part_2{
+	width:auto;
+	float:right;
+	text-align: center;
+}
+
+#section_3{
+	width: 100%;
+	background-color: orange;
+}
+
+#knowledges{
+	width: 100%;
+	height: auto;
+}
+
+#knowledges_content #title{
+	font-size: 20px;
+}
+
+
+

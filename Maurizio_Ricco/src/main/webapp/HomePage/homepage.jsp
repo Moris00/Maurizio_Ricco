@@ -17,8 +17,8 @@
 					<h2>Moris</h2>
 				</div>
 				<div id=menu>
-					<input type="button" value="Link 1" class="buttons">
-					<input type="button" value="Link 1" class="buttons">
+					<input type="button" value="Home" class="buttons">
+					<input type="button" value="Chi sono" class="buttons">
 					<input type="button" value="Link 1" class="buttons">
 					<input type="button" value="Link 1" class="buttons">
 				
@@ -125,21 +125,230 @@
 					<p class="description">
 						Di seguito sono presenti alcune skills apprese durante il mio percorso di studi
 					</p>
-					<div class="progress_bar">
-						<div class="block_border"></div>
-						<div class="block_border"></div>
-						<div class="block_border"></div>
-						<div class="block_border"></div>
-						<div class="block_border"></div>
-						<div class="block_border"></div>
-						<div class="block_border"></div>
-						<div class="block_border"></div>
-						<div class="block_meter"></div>
-						<div class="block_meter"></div>
+					<div id="parts">
+						<div id=part_1>
+							<div class="generic_bar_first">
+								<span class=title>Java SE</span>
+								<div class="progress_bar">
+								
+									<div class="block_border"></div>
+									<div class="block_border"></div>
+									<div class="block_border"></div>
+									<div class="block_border"></div>
+									<div class="block_border"></div>
+									<div class="block_border"></div>
+									<div class="block_border"></div>
+									<div class="block_border"></div>
+									<div class="block_meter"></div>
+									<div class="block_meter"></div>
+									<div class="block_meter"></div>
+									<div class="block_meter"></div>
+									<div class="block_meter"></div>
+									<div class="block_meter"></div>
+									<div class="block_meter"></div>
+									
+									
+								</div>
+							</div>
+							<div class="generic_bar">
+								<span class=title>Java EE</span>
+								<div class="progress_bar">
+								
+									<div class="block_border"></div>
+									<div class="block_border"></div>
+									<div class="block_border"></div>
+									<div class="block_border"></div>
+									<div class="block_border"></div>
+									<div class="block_border"></div>
+									<div class="block_border"></div>
+									<div class="block_border"></div>
+									<div class="block_meter"></div>
+									<div class="block_meter"></div>
+									<div class="block_meter"></div>
+									<div class="block_meter"></div>
+									<div class="block_meter"></div>
+									
+									
+								</div>
+							</div>
+							<div class="generic_bar">
+								<span class=title>C</span>
+								<div class="progress_bar">
+								
+									<div class="block_border"></div>
+									<div class="block_border"></div>
+									<div class="block_border"></div>
+									<div class="block_border"></div>
+									<div class="block_border"></div>
+									<div class="block_border"></div>
+									<div class="block_border"></div>
+									<div class="block_border"></div>
+									<div class="block_meter"></div>
+									<div class="block_meter"></div>
+									<div class="block_meter"></div>
+									<div class="block_meter"></div>
+									
+									
+									
+								</div>
+							</div>
+							
+							<div class="generic_bar">
+								<span class=title>SQL</span>
+								<div class="progress_bar">
+								
+									<div class="block_border"></div>
+									<div class="block_border"></div>
+									<div class="block_border"></div>
+									<div class="block_border"></div>
+									<div class="block_border"></div>
+									<div class="block_border"></div>
+									<div class="block_border"></div>
+									<div class="block_border"></div>
+									<div class="block_meter"></div>
+									<div class="block_meter"></div>
+									<div class="block_meter"></div>
+									<div class="block_meter"></div>
+									<div class="block_meter"></div>
+									<div class="block_meter"></div>
+									
+									
+									
+								</div>
+							</div>
+							<div class="generic_bar">
+								<span class=title>Unity 3D</span>
+								<div class="progress_bar">
+								
+									<div class="block_border"></div>
+									<div class="block_border"></div>
+									<div class="block_border"></div>
+									<div class="block_border"></div>
+									<div class="block_border"></div>
+									<div class="block_border"></div>
+									<div class="block_border"></div>
+									<div class="block_border"></div>
+									<div class="block_meter"></div>
+									<div class="block_meter"></div>
+									<div class="block_meter"></div>
+									
+								</div>
+							</div>
+							
+							
+						</div>
+						<div id=part_2>
+							<div class="generic_bar_first">
+								<span class=title>HTML</span>
+								<div class="progress_bar">
+								
+									<div class="block_border"></div>
+									<div class="block_border"></div>
+									<div class="block_border"></div>
+									<div class="block_border"></div>
+									<div class="block_border"></div>
+									<div class="block_border"></div>
+									<div class="block_border"></div>
+									<div class="block_border"></div>
+									<div class="block_meter"></div>
+									<div class="block_meter"></div>
+									<div class="block_meter"></div>
+									<div class="block_meter"></div>
+									<div class="block_meter"></div>
+									<div class="block_meter"></div>
+									
+									
+								</div>
+							</div>
+							
+							<div class="generic_bar">
+								<span class=title>CSS</span>
+								<div class="progress_bar">
+								
+									<div class="block_border"></div>
+									<div class="block_border"></div>
+									<div class="block_border"></div>
+									<div class="block_border"></div>
+									<div class="block_border"></div>
+									<div class="block_border"></div>
+									<div class="block_border"></div>
+									<div class="block_border"></div>
+									<div class="block_meter"></div>
+									<div class="block_meter"></div>
+									<div class="block_meter"></div>
+									<div class="block_meter"></div>
+									<div class="block_meter"></div>
+									
+									
+								</div>
+							</div>
+							<div class="generic_bar">
+								<span class=title>JS</span>
+								<div class="progress_bar">
+								
+									<div class="block_border"></div>
+									<div class="block_border"></div>
+									<div class="block_border"></div>
+									<div class="block_border"></div>
+									<div class="block_border"></div>
+									<div class="block_border"></div>
+									<div class="block_border"></div>
+									<div class="block_border"></div>
+									<div class="block_meter"></div>
+									<div class="block_meter"></div>
+									<div class="block_meter"></div>
+									<div class="block_meter"></div>
+									
+									
+									
+								</div>
+							</div>
+							<div class="generic_bar">
+								<span class=title>Python</span>
+								<div class="progress_bar">
+								
+									<div class="block_border"></div>
+									<div class="block_border"></div>
+									<div class="block_border"></div>
+									<div class="block_border"></div>
+									<div class="block_border"></div>
+									<div class="block_border"></div>
+									<div class="block_border"></div>
+									<div class="block_border"></div>
+									<div class="block_meter"></div>
+									<div class="block_meter"></div>
+									<div class="block_meter"></div>
+								</div>
+							</div>
+							<div class="generic_bar">
+								<span class=title>C#</span>
+								<div class="progress_bar">
+								
+									<div class="block_border"></div>
+									<div class="block_border"></div>
+									<div class="block_border"></div>
+									<div class="block_border"></div>
+									<div class="block_border"></div>
+									<div class="block_border"></div>
+									<div class="block_border"></div>
+									<div class="block_border"></div>
+									<div class="block_meter"></div>
+									<div class="block_meter"></div>
+								</div>
+							</div>
+						</div>
 					</div>
 				</div>
-			
+				
 			</div>
+			<div id=section_3>
+				<div id=knowledges>
+					<div id=knowledges_content>
+						<span id=title>Ulteriori Conoscenze</span>
+					</div>
+				</div>
+			</div>
+			
 		</div>
 	</body>
 </html>
